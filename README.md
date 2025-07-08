@@ -1,4 +1,4 @@
-# <p align="center"> Quadrados Mínimos </p>
+# <p align="center"> Quadrados Mínimos 🎯 </p>
 <p align="center"> Funções em Python para ajuste e plotagem de curvas utilizando o método dos quadrados mínimos para qualquer função previamente definida. </p>
 
 <p align="center">
